@@ -68,14 +68,6 @@ a:hover {
     text-decoration: underline;
 }
 
-#dossierATelecharger {
-    font-size: 0.8em;
-    position: fixed;
-    bottom: -3px;
-    left: 0.5%;
-    font-family: 'AR';
-}
-
 section {
     position: absolute;
     right: 0px;
