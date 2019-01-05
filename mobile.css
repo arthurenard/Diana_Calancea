@@ -3,6 +3,9 @@
     src: url('../police/Alice-Regular.ttf');
 }
 
+body {
+    margin: 0px; 
+}    
 article {
     height: 100%;
     display: flex;
